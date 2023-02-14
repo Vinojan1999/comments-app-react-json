@@ -1,0 +1,54 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "comment": "This is a comment",
+      "author": "Bluebay Labs",
+      "authorId": 1,
+      "timestamp": "2023-1-13 12:00:00",
+      "img": "https://i.pravatar.cc/150?img=14",
+      "parentId": null,
+      "upvotes": 3
+    },
+    {
+      "id": 2,
+      "img": "https://i.pravatar.cc/150?img=13",
+      "comment": "Hello there, Its Vinojan",
+      "timestamp": "2023-2-12 16:27:15",
+      "author": "Vinojan",
+      "authorId": 10,
+      "upvotes": 0,
+      "parentId": null
+    },
+    {
+      "id": 3,
+      "img": "https://i.pravatar.cc/150?img=13",
+      "comment": "Are you there",
+      "timestamp": "2023-2-14 16:29:47",
+      "author": "Vinojan",
+      "authorId": 10,
+      "upvotes": 0,
+      "parentId": 1
+    },
+    {
+      "id": 4,
+      "img": "https://i.pravatar.cc/150?img=13",
+      "comment": "Hello Buddy",
+      "timestamp": "2023-2-14 16:30:37",
+      "author": "Vinojan",
+      "authorId": 10,
+      "upvotes": 0,
+      "parentId": null
+    },
+    {
+      "id": 5,
+      "img": "https://i.pravatar.cc/150?img=13",
+      "comment": "Heyy",
+      "timestamp": "2023-2-14 16:32:00",
+      "author": "Vinojan",
+      "authorId": 10,
+      "upvotes": 0,
+      "parentId": null
+    }
+  ]
+}
