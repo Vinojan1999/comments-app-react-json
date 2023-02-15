@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import images from "../images";
 
 const CommentForm = ({ user, parentId}) => {
   const [commentBody, setCommentBody] = useState("");
@@ -50,7 +51,7 @@ const CommentForm = ({ user, parentId}) => {
   };
   return (
     <div className="comment-form">
-      <img src="https://i.pravatar.cc/150?img=13" alt="avatar" />
+      <img src={images.profile} alt="avatar" />
       <input
         type="text"
         id="comment"

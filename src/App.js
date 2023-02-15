@@ -2,13 +2,14 @@ import React, {useState, useEffect} from "react";
 import "./App.css";
 import CommentForm from "./components/CommentForm";
 import Comments from "./components/Comments";
+import images from "./images";
 
 function App() {
   const [comments, setComments] = useState([]);
   const user = {
     name: "Vinojan",
-    img: "https://i.pravatar.cc/150?img=13",
-    id: 10
+    img: images.profile,
+    id: 2
   };
 
   useEffect(() => {
@@ -18,7 +19,6 @@ function App() {
       (data) => setComments(data)
    )
   }, [comments]);
-  // https://server-p7ok.onrender.com/comments
 
   return (
     <div className="container">

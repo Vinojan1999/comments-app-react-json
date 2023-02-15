@@ -15,7 +15,7 @@
       "img": "https://i.pravatar.cc/150?img=13",
       "comment": "Hello there, Its Vinojan",
       "timestamp": "2023-2-12 16:27:15",
-      "author": "Vinojan",
+      "author": "Abhimanyu",
       "authorId": 10,
       "upvotes": 0,
       "parentId": null
@@ -25,7 +25,7 @@
       "img": "https://i.pravatar.cc/150?img=13",
       "comment": "Are you there",
       "timestamp": "2023-2-14 16:29:47",
-      "author": "Vinojan",
+      "author": "Abhimanyu",
       "authorId": 10,
       "upvotes": 0,
       "parentId": 1
@@ -35,7 +35,7 @@
       "img": "https://i.pravatar.cc/150?img=13",
       "comment": "Hello Buddy",
       "timestamp": "2023-2-14 16:30:37",
-      "author": "Vinojan",
+      "author": "Abhimanyu",
       "authorId": 10,
       "upvotes": 0,
       "parentId": null
@@ -45,10 +45,30 @@
       "img": "https://i.pravatar.cc/150?img=13",
       "comment": "Heyy",
       "timestamp": "2023-2-14 16:32:00",
-      "author": "Vinojan",
+      "author": "Abhimanyu",
       "authorId": 10,
       "upvotes": 0,
       "parentId": null
+    },
+    {
+      "id": 6,
+      "img": "/static/media/profile.4d1e2cdb6f672936f2e0.jpg",
+      "comment": "Hello, Good morning ",
+      "timestamp": "2023-2-15 09:52:06",
+      "author": "Vinojan",
+      "authorId": 2,
+      "upvotes": 0,
+      "parentId": null
+    },
+    {
+      "id": 7,
+      "img": "/static/media/profile.4d1e2cdb6f672936f2e0.jpg",
+      "comment": "Okay great !",
+      "timestamp": "2023-2-15 09:53:57",
+      "author": "Vinojan",
+      "authorId": 2,
+      "upvotes": 0,
+      "parentId": 1
     }
   ]
 }
